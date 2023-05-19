@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1> Olá, me chamo Italo Mageste, tudo bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
-<!--
-**italommf/italommf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🐍 Dev. Junior back end em Python (em formação e aprimoramento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>  
+  
+  <img align = "center" alt = "Italo-" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align = "center" alt = "Italo-" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+         
+</div>
+
+##
