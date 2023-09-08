@@ -1,7 +1,7 @@
 <h1> Olá, me chamo Italo Mageste, tudo bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
 
-- 🐍 Dev. Junior back end em Python (em formação e aprimoramento)
+- 🐍 Devenvolvedor back end em Python (em formação)
 
 ##
 
