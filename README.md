@@ -5,7 +5,7 @@
 
 - Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente no 4° período com expectativa de formação para 2024.2
 
-Tenho afinidade e experiência em
+- Tenho maior afinidade e experiência em:
     - Automação de processos contábeis
     - Raspagem de dados
     - Criação de relatórios automatizado
