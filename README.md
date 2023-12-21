@@ -5,10 +5,11 @@
 
 - Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente no 4° período com expectativa de formação para 2024.2
 
-  - Automação de processos contábeis
-- - Raspagem de dados
-- - Criação de relatórios automatizados
-- - Criação de robôs utilizando Python com Selenium e PyAutoGUI
+Tenho afinidade e experiência em
+    - Automação de processos contábeis
+    - Raspagem de dados
+    - Criação de relatórios automatizado
+    - Criação de robôs utilizando Python com Selenium e PyAutoGUI
 
 ##
 
