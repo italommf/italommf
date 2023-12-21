@@ -1,7 +1,9 @@
 <h1> Olá, me chamo Italo Mageste, tudo bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
 
-- 🐍 Devenvolvedor back end em Python (em formação)
+- 🐍 Desenvolvedor RPA
+
+- Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente no 4° período com expectativa de formação para 2024.2
 
 ##
 
