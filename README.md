@@ -33,7 +33,7 @@
 ---
 
 ### 🌐 Onde me encontrar:
-📧 [immf.estudo@gmail.com](mailto:immf.estudo@gmail.com)  
+📧 [immf.estudo@gmail.com](mailto:italo.mageste@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/italomageste)
 
 ---
